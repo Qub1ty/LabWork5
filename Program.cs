@@ -23,5 +23,7 @@ class Program
         Console.WriteLine($"Результат: {result}");
         Console.WriteLine("");
         Console.WriteLine(" Выполнил: Локтев Артем 23ИС");
+        Console.ReadKey();
+
     }
 }
